@@ -76,7 +76,9 @@ public class MainActivityTest {
         Espresso.pressBack(); //Back button
     }
 
-
+    /*
+    * Lab3 test
+    * */
     @Test
     public void lab3Test(){
         onView(withId(R.id.button_add)).perform(click()); //Click add button to add a city to the list
