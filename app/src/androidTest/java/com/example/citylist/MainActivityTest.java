@@ -77,7 +77,7 @@ public class MainActivityTest {
     }
 
     /*
-    * Lab3 test
+    * Lab3 testing
     * */
     @Test
     public void lab3Test(){
